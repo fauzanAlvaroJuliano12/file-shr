@@ -1,6 +1,6 @@
 # File-sharing
 
-<p align="center">
+###<p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
@@ -20,7 +20,8 @@
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
   </a>  
-</p>
+</p>###
+
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
@@ -46,7 +47,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-<a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
@@ -55,14 +55,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
-#### Deploy in your VPS
-````bash
-git clone https://github.com/Dax083/File-share
-cd File-Share
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
 
 ### Admin Commands
 
