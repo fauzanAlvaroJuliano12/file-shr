@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@vvslh_pro ](https://www.telegram.dog/codexbotzsupport)**
 
 ### Features
 - Fully customisable.
@@ -55,14 +55,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
-#### Deploy in your VPS
-````bash
-git clone https://github.com/Dax083/File-share
-cd File-Share
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
 
 ### Admin Commands
 
